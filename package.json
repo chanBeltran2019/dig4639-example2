@@ -1,0 +1,20 @@
+{
+  "name": "dig4639-example2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanBeltran2019/dig4639-example2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanBeltran2019/dig4639-example2/issues"
+  },
+  "homepage": "https://github.com/chanBeltran2019/dig4639-example2#readme"
+}
